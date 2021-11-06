@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596829631 source:c:\users\alpish\desktop\codeblocks\circular queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
