@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596831625 source:c:\users\alpish\desktop\codeblocks\queuell\main.c
+	<stdio.h>
+	<stdlib.h>
+
